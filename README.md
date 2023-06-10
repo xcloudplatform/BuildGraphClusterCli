@@ -1,2 +1,2 @@
 # BuildGraphClusterCli
-runs on-demand a BuildGraph node on the Google Cloud via API
+runs on-demand a BuildGraph node on the Google Cloud via terramorph and kubernetes
